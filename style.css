@@ -4,3 +4,20 @@
     font-family: 'Tajawal';
 }
 
+nav {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    color: white;
+    align-items: center;
+}
+.book {
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    align-items: center;
+    color: white;
+    position: absolute;
+    line-height: 80px;
+}
+
