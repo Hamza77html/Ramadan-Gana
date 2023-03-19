@@ -8,9 +8,6 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-top: 40px;
-    padding-left: 10%;
-    padding-right: 10%;
 
 }
 .logo {
@@ -19,7 +16,6 @@ nav {
 
 }
 nav ul li {
-    list-style-type: none;
     display: inline-block;
     padding: 10px 20px;
 }
