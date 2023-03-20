@@ -109,7 +109,7 @@ ul,
 dl {
   margin-top: 0;
   margin-bottom: 1rem;
-  margin-left: 0;
+  
 }
 
 ol ol,
@@ -117,7 +117,6 @@ ul ul,
 ol ul,
 ul ol {
   margin-bottom: 0;
-  margin-left: 0;
 }
 
 dt {
@@ -165,7 +164,6 @@ sup {
 a {
   color: #007bff;
   text-decoration: none;
-  text-align: right;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
 }
