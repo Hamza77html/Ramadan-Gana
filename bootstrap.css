@@ -166,6 +166,7 @@ a {
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
+  text-align: right;
 }
 
 a:hover {
